@@ -14,7 +14,7 @@ Clone the repo and copy everything from `plugin` to your `/path/to/smarty/plugin
 
 ## Usage
 
-```php
+```console
 {$row['id']|jdate_format:"%Y/%m/%d"}
 ```
 
